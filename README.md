@@ -10,7 +10,7 @@ The number of low-risk loans (represented by 0) was significantly larger (18765 
 
 The machine learning process began with data preprocessing, including cleaning the data, encoding categorical data, and splitting the data into training and test sets. Subsequently, machine learning models were trained using the training data and the performance of these models was evaluated on the test data.
 
-Two machine learning models were used in this analysis: a logistic regression model and a resampling method model.
+A logistic regression model was used on the normal unbalanced data and resampled data.
 
 ## Results
 
